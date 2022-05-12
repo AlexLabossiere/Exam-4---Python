@@ -12,14 +12,14 @@ TO RUN:
 ----------------------------------
 Notes:
 - final_test.py DOES NOT WORK
-      - ModuleNotFoundError: No module named 'exam4code
-      - this is the error that keeps popping up
-      - stackoverflow has ever solution but one that helps me and at this point i really dont know what to do
+     - ModuleNotFoundError: No module named 'exam4code
+     - this is the error that keeps popping up
+     - stackoverflow has ever solution but one that helps me and at this point i really dont know what to do
 
 -Output files
    -sequence.CSV files (labeled according to their sequence)
-      - has first row of numbered rows (starting base 0) (just ignore these)
-      - column for k value
-      - column for observed kmers
-      - column for possible kmers
+     - has first row of numbered rows (starting base 0) (just ignore these)
+     - column for k value
+     - column for observed kmers
+     - column for possible kmers
   
