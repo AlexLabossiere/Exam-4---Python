@@ -1,9 +1,11 @@
 # Exam-4---Python
 contains 
-  - Script
-  - script test
+  - exam4code.py
+  - test.py
   - sample files
+    - dnasample.txt.txt
   - output files
+    - sequence.txt (x3)
 ---------------------------------
 TO RUN:
 - place script.py in same folder as this specific .txt
@@ -11,7 +13,7 @@ TO RUN:
     - line 23 - 33 heavily influneced by http://claresloggett.github.io/python_workshops/improved_kmers.html, they have great examples for kmers
 ----------------------------------
 Notes:
-- final_test.py DOES NOT WORK
+- test.py DOES NOT WORK
      - ModuleNotFoundError: No module named 'exam4code
      - this is the error that keeps popping up
      - stackoverflow has ever solution but one that helps me and at this point i really dont know what to do
