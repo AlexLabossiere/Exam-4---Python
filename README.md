@@ -6,8 +6,8 @@ contains
   - output files
 ---------------------------------
 TO RUN:
-place script.py in same folder as this specific .txt
-    -script will split .txt into proper lines, make it to a list and take away specified unwated characters 
+- place script.py in same folder as this specific .txt
+    - script will split .txt into proper lines, make it to a list and take away specified unwated characters 
     - line 23 - 33 heavily influneced by http://claresloggett.github.io/python_workshops/improved_kmers.html, they have great examples for kmers
 ----------------------------------
 Notes:
